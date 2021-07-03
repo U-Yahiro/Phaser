@@ -11,3 +11,4 @@ To start use  `npm install` and then `npm run start`
 And then open browser at http://127.0.0.1:3000, you can open the tab multiple times to spawn a new player in the game.
 # Webrtc
 # Webrtc
+# Phaser
